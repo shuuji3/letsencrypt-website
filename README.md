@@ -18,6 +18,8 @@ future).
 Contributions welcome.
 
 # Troubleshooting with Hugo
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fshuuji3%2Fletsencrypt-website.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fshuuji3%2Fletsencrypt-website?ref=badge_shield)
+
 
 If you see the error:
 
@@ -35,3 +37,7 @@ To help with translation, please see [TRANSLATION.md].
 [http://localhost:1313/]: http://localhost:1313/
 [TRANSLATION.md]: https://github.com/letsencrypt/website/blob/master/TRANSLATION.md
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fshuuji3%2Fletsencrypt-website.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fshuuji3%2Fletsencrypt-website?ref=badge_large)
